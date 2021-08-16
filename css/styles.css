@@ -229,6 +229,10 @@ section.repo-data {
 .view-repos {
     max-width: 200px;
     margin-top: 0;
+    color: #48bfe3;
+    background-color: #fff;
+    border-color: #48bfe3;
+    
 }
 
 @media (min-width: 700px) {
